@@ -7,4 +7,4 @@ def ievade():
 def masa():
     1234567
 def izmaksas():
-
+98yifgbedshiog 
